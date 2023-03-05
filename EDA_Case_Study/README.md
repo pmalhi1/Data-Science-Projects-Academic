@@ -1,4 +1,4 @@
-# EDA_Case_Study
+# EDA Case Study
 
 ## Objective: 
 The company wants to understand the driver variables behind loan default, to utilize this knowledge for its portfolio and risk assessment.
