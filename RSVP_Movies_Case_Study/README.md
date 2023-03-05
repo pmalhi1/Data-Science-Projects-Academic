@@ -1,4 +1,4 @@
-# RSVP_Movies_Case_Study
+# RSVP Movies Case Study
 
 ## Objective: 
 An Indian production company wants to plan it's every move analytically based on the given dataset.
